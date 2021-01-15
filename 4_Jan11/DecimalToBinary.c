@@ -2,7 +2,6 @@
 
 int main()
 {
-
     int decimal ;
 
     printf("Enter decimal no ?") ;

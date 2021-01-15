@@ -2,7 +2,6 @@
 
 int main()
 {
-
     int binary ;
 
     printf("Enter binary no ?") ;

@@ -2,7 +2,6 @@
 
 int main()
 {
-
     int n ;
 
     printf("Enter N ?") ;
