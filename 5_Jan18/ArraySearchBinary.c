@@ -32,7 +32,10 @@ int main()
         else if(item < arr[mid])
             hi = mid - 1;
         else
+        {
             idx = mid ;
+            break ;
+        }
 
     }
 
