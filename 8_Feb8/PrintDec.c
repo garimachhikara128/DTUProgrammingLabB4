@@ -23,7 +23,7 @@ void PD(int n)
     printf("hi %d\n", n) ;
 
     // smaller problem
-    PD(n-1) ;
+    PD(--n) ;
 
     printf("bye %d\n", n) ;
 }
